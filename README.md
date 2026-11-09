@@ -1,107 +1,90 @@
-# my-ai-project
-BUILDING AI PROJECT
-Sisonke – AI Mental Wellness Companion
 ## summary
-# 1. My Idea in a Nutshell
+Sesonge AI – Mental Wellness Companion
 
-Sisonke is a proposed AI-powered mental wellness companion designed to provide emotional support to people who may be experiencing stress, loneliness, anxiety, sadness or emotional difficulties.
+Final project for the Building AI course
 
-The system will use artificial intelligence to understand the emotional tone of users' messages and respond with supportive conversations, encouraging reflections and simple coping strategies.
+Sesonge AI is an AI-powered mental wellness companion designed to provide emotional support, encourage self-reflection, and help users explore their feelings through supportive and personalised conversations.
 
-It will also help users access relevant mental health resources and professional support services in South Africa.
+Background
 
-The goal is to make emotional support more accessible, private and approachable.
+Mental and emotional well-being are important parts of everyday life. Many people experience stress, loneliness, anxiety, and emotional challenges but may find it difficult to express their feelings or access support.
 
-# 2. Background
+Sesonge AI aims to provide an accessible space where people can express themselves without feeling judged.
 
-Mental wellness is an important part of everyday life. Many people experience emotional difficulties but may not always have someone they feel comfortable talking to or know where to find support.
+The problems this project aims to address include:
 
-In South Africa, access to mental healthcare remains a challenge. Research included in the South African Health Review highlights a significant gap in access to mental health treatment.
+* Difficulty expressing emotions and personal struggles.
+* Limited access to immediate emotional support.
+* Feelings of loneliness and isolation.
+* Lack of accessible tools for self-reflection and emotional well-being.
 
-My motivation for this project is to explore how AI can be used to make emotional support more accessible and help people feel heard without fear of judgement.
+My motivation for creating Sesonge AI is to explore how artificial intelligence can be used in a positive and meaningful way to support people's emotional well-being.
 
-I believe technology can play a positive role in encouraging conversations about mental wellness and helping people find appropriate support.
+How is it used?
 
-# 3. Data and AI Techniques
+Sesonge AI is intended to work as a conversational mental wellness companion.
 
-The project will use the following data sources:
+Users would interact with the system by typing messages about their feelings, thoughts, or everyday experiences.
 
-- User-provided text describing their feelings and experiences.
-- Open-source conversational datasets, subject to their licensing conditions.
-- Existing AI models and machine learning resources.
-- Mental health information and support resources from trusted South African organisations such as SADAG.
+The AI would respond with supportive and relevant conversations, helping users reflect on their emotions and explore positive ways of approaching everyday challenges.
 
-The AI techniques will include:
+Potential users include:
 
-- Natural Language Processing (NLP): To process and understand written messages.
-- Sentiment Analysis: To identify emotional tones such as sadness, frustration, happiness and stress.
-- Machine Learning: To classify messages into different emotional categories.
-- Crisis Detection: To identify certain expressions of distress and direct users towards appropriate professional support.
-- Generative AI: To produce conversational and supportive responses.
+* People looking for a safe space to express their thoughts.
+* Individuals experiencing everyday stress or emotional difficulties.
+* People interested in self-reflection and personal development.
 
-An existing open-source project, Mental Health Companion by Amlan Mishra, provides inspiration for the proposed system's architecture.
+The system should be accessible, easy to use, respectful, and considerate of different emotional needs.
 
-# 4. How Is It Used?
+Sesonge AI is not intended to replace professional mental health services, therapy, or medical treatment.
 
-Users will interact with Sisonke through a simple chat interface.
+Data sources and AI methods
 
-They will be able to express their feelings, discuss everyday challenges and receive supportive responses.
+Sesonge AI is intended to use natural language processing (NLP) and conversational AI to understand user messages and generate relevant responses.
 
-The system could also provide:
+Potential AI methods include:
 
-- Daily emotional check-ins.
-- Journaling prompts.
-- Simple breathing and grounding exercises.
-- Positive and encouraging reflections.
-- Information about professional mental health support.
+* Natural Language Processing (NLP) to interpret written messages.
+* Sentiment analysis to identify the emotional tone of messages.
+* Machine learning and language models to generate supportive responses.
+* Prompt engineering to guide the AI towards respectful and empathetic communication.
 
-The intended users include young adults, students and other members of the South African community who may benefit from accessible emotional wellness resources.
+The project may use an AI language model through an appropriate API or other accessible AI technology.
 
-The system will respect users' privacy and should avoid storing personal conversations unnecessarily.
+User conversations should be handled responsibly, with attention to privacy, consent, and data protection.
 
-# 5. Challenges and Limitations
+Challenges
 
-Although AI can provide useful support, it has limitations.
+Sesonge AI has several limitations and ethical considerations.
 
-- AI cannot fully understand human emotions or personal experiences.
-- It may misunderstand messages or produce inappropriate responses.
-- It cannot diagnose or treat mental health conditions.
-- Crisis detection may not identify every emergency situation.
-- Users may have limited internet access.
-- South African languages and cultural differences may create additional challenges.
+* It cannot replace qualified psychologists, therapists, or other healthcare professionals.
+* AI may misunderstand users' emotions or the context of their messages.
+* Generated responses may sometimes be inaccurate or inappropriate.
+* User privacy and the protection of sensitive personal information must be prioritised.
+* The system should not diagnose mental health conditions or prescribe treatment.
+* Users experiencing serious emotional distress should be encouraged to seek appropriate professional or emergency support.
 
-Sisonke will not replace psychologists, counsellors or other qualified healthcare professionals.
+Ensuring that the AI communicates responsibly, respectfully, and safely will be an important part of developing this project.
 
-Users experiencing serious emotional distress will be encouraged to seek professional assistance.
+What next?
 
-# 6. What's Next?
+In the future, Sesonge AI could be developed into a more advanced mental wellness companion with additional features, such as:
 
-The project could grow by introducing additional features, including:
+* More personalised conversations.
+* Improved emotional recognition.
+* Daily emotional check-ins.
+* Guided self-reflection activities.
+* Journaling features to help users reflect on their experiences.
+* Improved privacy and security features.
 
-- Support for more South African languages.
-- Improved emotional recognition.
-- A private mood-tracking and journaling system.
-- Partnerships with mental health organisations.
-- Better access to local counselling and support services.
-- A mobile application for easier access.
+Developing this project further would require additional knowledge of artificial intelligence, programming, natural language processing, user experience design, and mental wellness principles.
 
-In the future, I would like to explore collaboration with AI developers and mental health professionals to improve the project's safety, accuracy and usefulness.
+The long-term goal is to explore how AI can make emotional support tools more accessible while maintaining responsible and ethical use of technology.
 
-# 7. Acknowledgements
+Acknowledgments
 
-This project was inspired by existing open-source AI mental health projects.
+* Reaktor Innovations and the University of Helsinki for providing the Building AI course and final project template.
+* OpenAI and the broader AI research community for contributing to the development of conversational AI technologies.
+* All other sources, tools, and resources used during the development of this project will be acknowledged appropriately.
 
-Special acknowledgement goes to:
-
-- Amlan Mishra: Creator of the Mental Health Companion project on GitHub, which provides inspiration for the proposed AI architecture.
-- South African Depression and Anxiety Group (SADAG): For providing mental health information and support resources.
-- Open-source AI community: For making AI tools, models and learning resources available to developers and learners.
-
-Original project:
-https://github.com/amlan2419-code/mental-health-chatbot
-
-SADAG:
-https://www.sadag.org/
-
-This project is a proposed adaptation and learning concept. No working prototype has been implemented yet.
 
