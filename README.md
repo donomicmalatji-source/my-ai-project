@@ -1,11 +1,11 @@
 ## summary
 Sisonke AI – Mental Wellness Companion
 
-Final project for the Building AI course
+Final project for the Building AI course project
 
 Sisonke AI is an AI-powered mental wellness companion designed to provide emotional support, encourage self-reflection, and help users explore their feelings through supportive and personalised conversations.
 
-Background
+# Background
 
 Mental and emotional well-being are important parts of everyday life. Many people experience stress, loneliness, anxiety, and emotional challenges but may find it difficult to express their feelings or access support.
 
@@ -20,7 +20,7 @@ The problems this project aims to address include:
 
 My motivation for creating Sisonke AI is to explore how artificial intelligence can be used in a positive and meaningful way to support people's emotional well-being.
 
-How is it used?
+# How is it used?
 
 Sisonke AI is intended to work as a conversational mental wellness companion.
 
@@ -38,7 +38,7 @@ The system should be accessible, easy to use, respectful, and considerate of dif
 
 Sisonke AI is not intended to replace professional mental health services, therapy, or medical treatment.
 
-Data sources and AI methods
+# Data sources and AI methods
 
 Sisonke AI is intended to use natural language processing (NLP) and conversational AI to understand user messages and generate relevant responses.
 
@@ -53,7 +53,7 @@ The project may use an AI language model through an appropriate API or other acc
 
 User conversations should be handled responsibly, with attention to privacy, consent, and data protection.
 
-Challenges
+# Challenges
 
 Sisonke AI has several limitations and ethical considerations.
 
@@ -66,7 +66,7 @@ Sisonke AI has several limitations and ethical considerations.
 
 Ensuring that the AI communicates responsibly, respectfully, and safely will be an important part of developing this project.
 
-What next?
+# What next?
 
 In the future, Sisonke AI could be developed into a more advanced mental wellness companion with additional features, such as:
 
@@ -81,10 +81,18 @@ Developing this project further would require additional knowledge of artificial
 
 The long-term goal is to explore how AI can make emotional support tools more accessible while maintaining responsible and ethical use of technology.
 
-Acknowledgments
+# Acknowledgments
 
 * Reaktor Innovations and the University of Helsinki for providing the Building AI course and final project template.
 * OpenAI and the broader AI research community for contributing to the development of conversational AI technologies.
 * All other sources, tools, and resources used during the development of this project will be acknowledged appropriately.
+*Amlan Mishra creator of the mental health companion project on GitHub, which provides inspiration for the proposed AI project
+South African Depression and Anxiety Group [SADAG] for providing mental health information and support sources
+Open-source AI community:For making AI tools models and resources available to developers and learners.
+Original project:
+https://github.com/amlan2419-code/mental
+-health-chatbot
+SADAG:
+http://www.sadag.org/
 
-
+This project is a proposed adapt adaptation and learning concept. No working prototype has not been implemented yet.
