@@ -1,15 +1,15 @@
 ## summary
-Sesonge AI – Mental Wellness Companion
+Sisonke AI – Mental Wellness Companion
 
 Final project for the Building AI course
 
-Sesonge AI is an AI-powered mental wellness companion designed to provide emotional support, encourage self-reflection, and help users explore their feelings through supportive and personalised conversations.
+Sisonke AI is an AI-powered mental wellness companion designed to provide emotional support, encourage self-reflection, and help users explore their feelings through supportive and personalised conversations.
 
 Background
 
 Mental and emotional well-being are important parts of everyday life. Many people experience stress, loneliness, anxiety, and emotional challenges but may find it difficult to express their feelings or access support.
 
-Sesonge AI aims to provide an accessible space where people can express themselves without feeling judged.
+Sisonke AI aims to provide an accessible space where people can express themselves without feeling judged.
 
 The problems this project aims to address include:
 
@@ -18,11 +18,11 @@ The problems this project aims to address include:
 * Feelings of loneliness and isolation.
 * Lack of accessible tools for self-reflection and emotional well-being.
 
-My motivation for creating Sesonge AI is to explore how artificial intelligence can be used in a positive and meaningful way to support people's emotional well-being.
+My motivation for creating Sisonke AI is to explore how artificial intelligence can be used in a positive and meaningful way to support people's emotional well-being.
 
 How is it used?
 
-Sesonge AI is intended to work as a conversational mental wellness companion.
+Sisonke AI is intended to work as a conversational mental wellness companion.
 
 Users would interact with the system by typing messages about their feelings, thoughts, or everyday experiences.
 
@@ -36,11 +36,11 @@ Potential users include:
 
 The system should be accessible, easy to use, respectful, and considerate of different emotional needs.
 
-Sesonge AI is not intended to replace professional mental health services, therapy, or medical treatment.
+Sisonke AI is not intended to replace professional mental health services, therapy, or medical treatment.
 
 Data sources and AI methods
 
-Sesonge AI is intended to use natural language processing (NLP) and conversational AI to understand user messages and generate relevant responses.
+Sisonke AI is intended to use natural language processing (NLP) and conversational AI to understand user messages and generate relevant responses.
 
 Potential AI methods include:
 
@@ -55,7 +55,7 @@ User conversations should be handled responsibly, with attention to privacy, con
 
 Challenges
 
-Sesonge AI has several limitations and ethical considerations.
+Sisonke AI has several limitations and ethical considerations.
 
 * It cannot replace qualified psychologists, therapists, or other healthcare professionals.
 * AI may misunderstand users' emotions or the context of their messages.
@@ -68,7 +68,7 @@ Ensuring that the AI communicates responsibly, respectfully, and safely will be 
 
 What next?
 
-In the future, Sesonge AI could be developed into a more advanced mental wellness companion with additional features, such as:
+In the future, Sisonke AI could be developed into a more advanced mental wellness companion with additional features, such as:
 
 * More personalised conversations.
 * Improved emotional recognition.
